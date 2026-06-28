@@ -1,0 +1,15 @@
+# Local tooling / editor state
+.claude/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Unrelated working files (not part of the website)
+sem 06/
+
+# Old backup of the page
+index-legacy.html
+
+# Excluded for privacy (internship letter; not served on the site)
+assets/docs/abans-auto-internship-letter.pdf
+assets/images/portfolio/internship/service-letter.png
